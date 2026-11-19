@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/seba-dvd/live-auction-app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:7c2d12&height=80&text=🔨%20Live%20Auction%20App&fontSize=28&fontColor=ffffff" width="100%" alt="Live Auction App" /></a>
+      <a href="https://github.com/seba-dvd/live-auction-app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:7c2d12&height=110&text=🔨%20Live%20Auction%20App&fontSize=60&fontColor=ffffff" width="100%" alt="Live Auction App" /></a>
       <p>Live auction platform with virtual coins: real-time bidding over WebSockets, fund reservation, anti-sniping and automatic closing. Spring Boot microservices behind a JWT API gateway.</p>
       <p><b>My role:</b> project manager · user-service &amp; api-gateway</p>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -61,7 +61,7 @@
       <img src="https://img.shields.io/badge/team-5%20members-8957e5?style=flat-square" alt="Team of 5" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/seba-dvd/KubiDoIt"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FCF8E,100:065f46&height=80&text=✅%20KubiDoIt&fontSize=28&fontColor=ffffff" width="100%" alt="KubiDoIt" /></a>
+      <a href="https://github.com/seba-dvd/KubiDoIt"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FCF8E,100:065f46&height=110&text=✅%20KubiDoIt&fontSize=60&fontColor=ffffff" width="100%" alt="KubiDoIt" /></a>
       <p>To-do app for individuals and groups sharing tasks, synced in real time across web, Android and iOS.</p>
       <p><b>My role:</b> project manager · backend — Supabase schema, Row Level Security, sync</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/seba-dvd/CodeStorm"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:1e3a8a&height=80&text=📄%20EduDocSync&fontSize=28&fontColor=ffffff" width="100%" alt="EduDocSync" /></a>
+      <a href="https://github.com/seba-dvd/CodeStorm"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:1e3a8a&height=110&text=📄%20EduDocSync&fontSize=60&fontColor=ffffff" width="100%" alt="EduDocSync" /></a>
       <p>Client-server app that processes academic PDFs (study plans, course sheets): text extraction, OCR fallback for scans, automatic field parsing and a React dashboard.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -81,7 +81,7 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/seba-dvd/IP_Tracker"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:f97366&height=80&text=🌍%20IP%20Tracker&fontSize=28&fontColor=ffffff" width="100%" alt="IP Tracker" /></a>
+      <a href="https://github.com/seba-dvd/IP_Tracker"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:f97366&height=110&text=🌍%20IP%20Tracker&fontSize=60&fontColor=ffffff" width="100%" alt="IP Tracker" /></a>
       <p>Looks up any IP or domain: location on a map, time zone with live local time, ISP and search history. Vanilla JS page, React web app and React Native mobile app.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
