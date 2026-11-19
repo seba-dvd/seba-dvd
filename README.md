@@ -19,7 +19,8 @@
 
 - 🎓 4th-year student at **Transilvania University of Brașov**
 - 🛠️ I build full-stack apps — web, mobile and backend services
-- 🔐 Interested in networking & security tools (see my port scanner below)
+- 🤝 Used to working in teams — project manager and backend developer on university projects
+- 📝 Currently working on my bachelor's thesis
 - 🌱 Currently exploring microservices with **Spring Boot**, **Docker** and **React**
 - 📍 Based in **Brașov, Romania**
 
@@ -33,23 +34,40 @@
 
 ## 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/seba-dvd/CodeStorm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seba-dvd&repo=CodeStorm&theme=tokyonight&hide_border=true" alt="CodeStorm" />
-  </a>
-  <a href="https://github.com/seba-dvd/PortScanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seba-dvd&repo=PortScanner&theme=tokyonight&hide_border=true" alt="PortScanner" />
-  </a>
-  <a href="https://github.com/seba-dvd/ContactBook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seba-dvd&repo=ContactBook&theme=tokyonight&hide_border=true" alt="ContactBook" />
-  </a>
-</p>
+<!-- Thesis: replace this block with the real project once the repository exists -->
+<table align="center">
+  <tr>
+    <td align="center" width="820">
+      <h3>🎓 Bachelor's Thesis</h3>
+      <img src="https://img.shields.io/badge/status-in%20progress-f59e0b?style=for-the-badge" alt="Status: in progress" />
+      <p><b>My most important project — coming soon.</b><br/>Description, demo and code will be published here.</p>
+    </td>
+  </tr>
+</table>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[EduDocSync (CodeStorm)](https://github.com/seba-dvd/CodeStorm)** | Client-server app that processes academic PDFs with text extraction, OCR fallback and a React dashboard | Python · PostgreSQL · React · TypeScript · Docker |
-| **[PortScanner](https://github.com/seba-dvd/PortScanner)** | Multi-threaded TCP port scanner with DNS resolution, service detection and result export | Python (standard library) |
-| **[ContactBook](https://github.com/seba-dvd/ContactBook)** | Console contact manager with validation, search, CSV export and auto-save | C++ |
+### 📄 [EduDocSync](https://github.com/seba-dvd/CodeStorm) &nbsp;<img src="https://img.shields.io/badge/repo-public-2ea043?style=flat-square&logo=github" alt="Public repo" />
+
+Client-server application that processes academic PDF documents (study plans and course sheets): text extraction, OCR fallback for scanned files, automatic field parsing, printable views and a React dashboard.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+### ✅ KubiDoIt &nbsp;<img src="https://img.shields.io/badge/repo-private-6e7681?style=flat-square&logo=github" alt="Private repo" /> <img src="https://img.shields.io/badge/team-4%20members-8957e5?style=flat-square" alt="Team of 4" />
+
+To-do app for individuals and groups (friends, families) sharing tasks, synced in real time across web, Android and iOS. **My role:** project manager and backend developer — Supabase schema, security (Row Level Security) and sync.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+
+### 🔨 Live Auction App &nbsp;<img src="https://img.shields.io/badge/repo-private-6e7681?style=flat-square&logo=github" alt="Private repo" /> <img src="https://img.shields.io/badge/team-5%20members-8957e5?style=flat-square" alt="Team of 5" />
+
+Live auction platform with virtual coins: real-time bidding over WebSockets, fund reservation, anti-sniping time extension and automatic closing, built as Spring Boot microservices behind an API gateway with JWT auth.
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+### 🌍 IP Tracker &nbsp;<img src="https://img.shields.io/badge/repo-private-6e7681?style=flat-square&logo=github" alt="Private repo" /> <img src="https://img.shields.io/badge/team-3%20members-8957e5?style=flat-square" alt="Team of 3" />
+
+Looks up any IP address or domain and shows its approximate location on a map, time zone with live local time and ISP, with search history and light/dark themes. Available as a vanilla JS page, a React web app and a React Native mobile app.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
 
 ## 📊 GitHub stats
 
