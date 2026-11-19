@@ -57,7 +57,7 @@ To-do app for individuals and groups (friends, families) sharing tasks, synced i
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 
-### 🔨 Live Auction App &nbsp;<img src="https://img.shields.io/badge/repo-private-6e7681?style=flat-square&logo=github" alt="Private repo" /> <img src="https://img.shields.io/badge/team-5%20members-8957e5?style=flat-square" alt="Team of 5" />
+### 🔨 [Live Auction App](https://github.com/seba-dvd/live-auction-app) &nbsp;<img src="https://img.shields.io/badge/repo-public-2ea043?style=flat-square&logo=github" alt="Public repo" /> <img src="https://img.shields.io/badge/team-5%20members-8957e5?style=flat-square" alt="Team of 5" />
 
 Live auction platform with virtual coins: real-time bidding over WebSockets, fund reservation, anti-sniping time extension and automatic closing, built as Spring Boot microservices behind an API gateway with JWT auth.
 
