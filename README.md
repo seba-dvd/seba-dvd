@@ -51,7 +51,7 @@ Client-server application that processes academic PDF documents (study plans and
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
-### ✅ KubiDoIt &nbsp;<img src="https://img.shields.io/badge/repo-private-6e7681?style=flat-square&logo=github" alt="Private repo" /> <img src="https://img.shields.io/badge/team-4%20members-8957e5?style=flat-square" alt="Team of 4" />
+### ✅ [KubiDoIt](https://github.com/seba-dvd/KubiDoIt) &nbsp;<img src="https://img.shields.io/badge/repo-public-2ea043?style=flat-square&logo=github" alt="Public repo" /> <img src="https://img.shields.io/badge/team-4%20members-8957e5?style=flat-square" alt="Team of 4" />
 
 To-do app for individuals and groups (friends, families) sharing tasks, synced in real time across web, Android and iOS. **My role:** project manager and backend developer — Supabase schema, security (Row Level Security) and sync.
 
@@ -63,7 +63,7 @@ Live auction platform with virtual coins: real-time bidding over WebSockets, fun
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
-### 🌍 IP Tracker &nbsp;<img src="https://img.shields.io/badge/repo-private-6e7681?style=flat-square&logo=github" alt="Private repo" /> <img src="https://img.shields.io/badge/team-3%20members-8957e5?style=flat-square" alt="Team of 3" />
+### 🌍 [IP Tracker](https://github.com/seba-dvd/IP_Tracker) &nbsp;<img src="https://img.shields.io/badge/repo-public-2ea043?style=flat-square&logo=github" alt="Public repo" /> <img src="https://img.shields.io/badge/team-3%20members-8957e5?style=flat-square" alt="Team of 3" />
 
 Looks up any IP address or domain and shows its approximate location on a map, time zone with live local time and ISP, with search history and light/dark themes. Available as a vanilla JS page, a React web app and a React Native mobile app.
 
